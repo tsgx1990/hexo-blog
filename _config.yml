@@ -12,12 +12,12 @@ timezone: Asia/Shanghai
 # custom Site settings
 # more detail check out docs
 SEOTitle: dabao's blog 
-header-img: "./images/header-img.jpg" # //o7bkkhiex.bkt.clouddn.com/lion-blur-bg.jpg
+header-img: "http://dabaotthao.com/images/header-img.jpg" # "./images/header-img.jpg" # //o7bkkhiex.bkt.clouddn.com/lion-blur-bg.jpg
 email: dabaotthao@gmail.com
 description: "dabao 在 Github 上的个人博客"
 keyword: iOS # seo key words
 
-favicon: "./images/favicon.jpg" # your favicon png
+favicon: "http://dabaotthao.com/images/favicon.jpg" # "./images/favicon.jpg" # your favicon png
 # custom end
 
 # URL
@@ -60,7 +60,7 @@ ga_domain:
 
 # Sidebar settings
 sidebar-about-description: "认真生活，努力拼搏" # 个人描述
-sidebar-avatar: "./images/avatar.jpg"    # use absolute URL
+sidebar-avatar: "http://dabaotthao.com/images/avatar.jpg" # "./images/avatar.jpg"    # use absolute URL
 
 
 # Featured Tags
@@ -146,8 +146,8 @@ clip-avatar: "?imageView2/2/w/300/h/300/interlace/1/q/90"
 clip-home-post-bg: "?imageView2/1/w/800/h/300/interlace/1/q/70"
 
 # post default images
-post-default-img: "./images/post-default-img.jpg" #博文默认的图片
-post-default-img-mobile: "./images/post-default-img.jpg" #移动端显示的图片
+post-default-img: "http://dabaotthao.com/images/post-default-img.jpg" # "./images/post-default-img.jpg" #博文默认的图片
+post-default-img-mobile: "http://dabaotthao.com/images/post-default-img.jpg" # "./images/post-default-img.jpg" #移动端显示的图片
 
 # search api , set your custom key
 swiftype_key: 
