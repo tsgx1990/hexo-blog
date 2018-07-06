@@ -12,17 +12,17 @@ timezone: Asia/Shanghai
 # custom Site settings
 # more detail check out docs
 SEOTitle: dabao's blog 
-header-img: "http://dabaotthao.com/images/header-img.jpg" # "./images/header-img.jpg" # //o7bkkhiex.bkt.clouddn.com/lion-blur-bg.jpg
+header-img: "https://dabaotthao.com/images/header-img.jpg" # "./images/header-img.jpg" # //o7bkkhiex.bkt.clouddn.com/lion-blur-bg.jpg
 email: dabaotthao@gmail.com
 description: "dabao 在 Github 上的个人博客"
 keyword: iOS # seo key words
 
-favicon: "http://dabaotthao.com/images/favicon.jpg" # "./images/favicon.jpg" # your favicon png
+favicon: "https://dabaotthao.com/images/favicon.jpg" # "./images/favicon.jpg" # your favicon png
 # custom end
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://dabaotthao.com
+url: https://dabaotthao.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -31,7 +31,7 @@ permalink_defaults:
 # RSS:
 weibo_username: 
 zhihu_username: 
-github_username: 
+github_username: tsgx1990
 twitter_username: 
 facebook_username:  
 linkedin_username:  
@@ -41,7 +41,8 @@ anchorjs: false                        # if you want to customize anchor. check 
 
 
 # Disqus settings 
-disqus_username: 
+disqus_username: dabao
+disqus_shortname: dabao
 
 # Duoshuo settings
 duoshuo_username:  # 你的多说帐号
@@ -53,14 +54,14 @@ use_livere:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id:
+ba_track_id: 3b6a2285874d292cd1ee726031a01425
 # Google Analytics
 ga_track_id:             # Format: UA-xxxxxx-xx
 ga_domain:
 
 # Sidebar settings
 sidebar-about-description: "认真生活，努力拼搏" # 个人描述
-sidebar-avatar: "http://dabaotthao.com/images/avatar.jpg" # "./images/avatar.jpg"    # use absolute URL
+sidebar-avatar: "https://dabaotthao.com/images/avatar.jpg" # "./images/avatar.jpg"    # use absolute URL
 
 
 # Featured Tags
@@ -90,11 +91,11 @@ render_drafts: false
 post_asset_folder: true
 relative_link: false
 future: true
-highlight:
-  enable: true
-  line_number: true
-  auto_detect: false
-  tab_replace:
+# highlight:
+#   enable: true
+#   line_number: true
+#   auto_detect: false
+#   tab_replace:
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -167,8 +168,8 @@ clip-avatar: "?imageView2/2/w/300/h/300/interlace/1/q/90"
 clip-home-post-bg: "?imageView2/1/w/800/h/300/interlace/1/q/70"
 
 # post default images
-post-default-img: "http://dabaotthao.com/images/post-default-img.jpg" # "./images/post-default-img.jpg" #博文默认的图片
-post-default-img-mobile: "http://dabaotthao.com/images/post-default-img.jpg" # "./images/post-default-img.jpg" #移动端显示的图片
+post-default-img: "https://dabaotthao.com/images/post-default-img.jpg" # "./images/post-default-img.jpg" #博文默认的图片
+post-default-img-mobile: "https://dabaotthao.com/images/post-default-img.jpg" # "./images/post-default-img.jpg" #移动端显示的图片
 
 # search api , set your custom key
 swiftype_key: 
