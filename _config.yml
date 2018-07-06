@@ -15,7 +15,7 @@ SEOTitle: dabao's blog
 header-img: "https://dabaotthao.com/images/header-img.jpg" # "./images/header-img.jpg" # //o7bkkhiex.bkt.clouddn.com/lion-blur-bg.jpg
 email: dabaotthao@gmail.com
 description: "dabao 在 Github 上的个人博客"
-keyword: iOS # seo key words
+keyword: "大宝的编程博客" # seo key words
 
 favicon: "https://dabaotthao.com/images/favicon.jpg" # "./images/favicon.jpg" # your favicon png
 # custom end
@@ -172,7 +172,7 @@ post-default-img: "https://dabaotthao.com/images/post-default-img.jpg" # "./imag
 post-default-img-mobile: "https://dabaotthao.com/images/post-default-img.jpg" # "./images/post-default-img.jpg" #移动端显示的图片
 
 # search api , set your custom key
-swiftype_key: 
+swiftype_key: wFxR9EzViurJdRdCwT8h
 
 # archive page title 
 archive:
